@@ -8,6 +8,8 @@ For detection and classification, a dataset of 14,076 drone samples captured at 
 
 ## Result
 The proposed drone detection and tracking system using YOLO achieved decent accuracy in detecting and tracking drones in real-time. The optimized YOLO algorithm achieved a detection accuracy of over 57.27% on the test set, and a precision and recall of over 96%. The proposed system also demonstrated robustness in detecting multiple drones and distinguishing drones from other objects in the environment.
+![image](https://github.com/priyansusaha/DL-Model-for-Drone-Detection/assets/26963104/7943fe87-77ee-4dea-8068-3620217d91b2)
+
 
 ## Download
 Download link - https://drive.google.com/drive/folders/1H-4s5dHlNyAc_6ycmeRrfroYGK2VG6Nk?usp=sharing
